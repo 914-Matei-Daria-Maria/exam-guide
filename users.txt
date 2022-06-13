@@ -1,0 +1,5 @@
+Popescu,programmer
+Ionescu,tester
+Florea,tester
+Moldovan,programmer
+Gheorghita,tester

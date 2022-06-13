@@ -1,0 +1,6 @@
+problem1,open,Ionescu,not-solved
+problem2,closed,Florea,Moldovan
+problem3,open,Gheorgita,not-solved
+problem4,open,Ionescu,not-solved
+problem5,closed,Florea,Popescu
+problem6,closed,Gheorgita,Moldovan
